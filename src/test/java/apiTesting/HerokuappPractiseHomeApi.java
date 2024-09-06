@@ -50,6 +50,7 @@ public class HerokuappPractiseHomeApi {
         System.out.println(time);
     }
 
+    //justForTesting
     @Test
     public void getBooking() {
 
