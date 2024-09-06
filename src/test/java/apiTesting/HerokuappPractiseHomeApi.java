@@ -50,7 +50,7 @@ public class HerokuappPractiseHomeApi {
         System.out.println(time);
     }
 
-    //justForTesting
+
     @Test
     public void getBooking() {
 
@@ -64,11 +64,6 @@ public class HerokuappPractiseHomeApi {
 
         System.out.println(time);
     }
-
-
-
-
-
 
 
     @Test
@@ -99,15 +94,6 @@ public class HerokuappPractiseHomeApi {
 
         System.out.println(time);
     }
-
-
-
-
-
-
-
-
-
 
 
     @Test
@@ -143,11 +129,6 @@ public class HerokuappPractiseHomeApi {
     }
 
 
-
-
-
-
-
     @Test
     public void patchPartialUpdateBooking() {
 
@@ -174,20 +155,6 @@ public class HerokuappPractiseHomeApi {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @Test
     public void deleteBooking() {
 
@@ -204,24 +171,6 @@ public class HerokuappPractiseHomeApi {
 
         System.out.println(time);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     @Test
